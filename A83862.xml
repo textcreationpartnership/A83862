@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes of the House of Commons for divers of their members, to answer an impeachment, and the times set to each of them. Mr. John Macquire condemned to bee hanged, foure others quit, the manner of their triall. Mr. Stewart sick of the plague. Also papers from the agitators of the army, to his Excellency Sir Thomas Fairfax: in prosecution of their remonstrance against the members that were ingaged in the late intended vvarre.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83862</idno><idno type="EEBO-CITATION">99862385</idno>
+  <idno type="VID">114543</idno>
+  <idno type="EEBO-PROQUEST">2240955190</idno>
+  
+            <idno type="STC">Wing E2766</idno>
+            <idno type="STC">Thomason E405_26</idno>
+            <idno type="STC">ESTC R201900</idno>
+            <idno type="PROQUEST">99862385</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862385e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114543)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes of the House of Commons for divers of their members, to answer an impeachment, and the times set to each of them. Mr. John Macquire condemned to bee hanged, foure others quit, the manner of their triall. Mr. Stewart sick of the plague. Also papers from the agitators of the army, to his Excellency Sir Thomas Fairfax: in prosecution of their remonstrance against the members that were ingaged in the late intended vvarre.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of "Papers delivered by the agitators", "Severall votes of the House of Commons" (dated September 4, 1647), and "At the sessions in the Old-Bayliffe for the goale delivery for the prisoners in New-Gate, which ended on Saturday Sep. 4. 1647".</note>
+                  <note>Annotation on Thomason copy: "7ber: [i.e. September] 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Expulsions --  Early works to 1800.</term>
+               <term type="topical_term">Impeachments --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114543:1"/>
+            <p>VOTES <hi>of the HOƲSE of</hi> COMMONS FOR Divers of their Members, to Answer an Impeachment, and the times set to Each of them.</p>
+            <p>Mr. <hi>John Macquire</hi> condemned to bee hanged, <hi>Foure others quit, the manner of their Triall.</hi> Mr. <hi>Stewart</hi> sick of the <hi>Plague.</hi>
+            </p>
+            <p>ALSO Papers from the AGITATORS of the ARMY, to his Excellency Sir <hi>THOMAS FAIRFAX:</hi> IN Prosecution of their Remonstrance a<g ref="char:EOLhyphen"/>gainst the Members that were ingaged in the late intended VVARRE.</p>
+            <p>
+               <add>7<seg rend="sup">ber</seg> 6<seg rend="sup">th</seg>
+               </add> Printed at <hi>London</hi> by <hi>Robert Ibbitson,</hi> 1647.</p>
+            <pb facs="tcp:114543:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:114543:2"/>
+            <head>Papers delivered by the Agitators of the Army to his Excellency Sir <hi>THOMAS FAIRFAX</hi>
+            </head>
+            <opener>
+               <salute>May it please your Excellency,</salute>
+            </opener>
+            <p>WHereas upon the 23 of August last, the Conscience of our duty to God and the Kingdom to prosecute our Protesta<g ref="char:EOLhyphen"/>tion constrained us to declare our sense of the inviolable Ingagement of the Army, imme<g ref="char:EOLhyphen"/>diately to restrain those late usurpers of Par<g ref="char:EOLhyphen"/>liamentary power from sitting in Parlia<g ref="char:EOLhyphen"/>ment, to obstruct all proceedings tending to the Kingdomes peace: and notwithstand<g ref="char:EOLhyphen"/>ing we have waited with much patience, ex<g ref="char:EOLhyphen"/>pecting that the Parliaments zeal to the pub<g ref="char:EOLhyphen"/>lick good would have made those Intruders and Designers of mischeife a burden so intol<g ref="char:EOLhyphen"/>lerable to their spirits, that they would ra<g ref="char:EOLhyphen"/>ther have caled for the Armys assistance to e<g ref="char:EOLhyphen"/>ject them, then to have permitted them to sit there; yet all our expectations are hitherto,
+<pb n="2" facs="tcp:114543:3"/> frustrate, and no endeavours to that end are visible, we therefore in faithfulnesse to our principles and in a deep sense of the blood and confusion that threatens the Nation, by reason of the delays of removing the peoples burdens, and clearing and securing their Rights and Freedoms, which proceeds from those Incendiaries sitting in Parliament, can<g ref="char:EOLhyphen"/>not but humbly represent once more to your Excellency.</p>
+            <p>That we are weary of waiting and that the peoples growing miseries and distresses pres<g ref="char:EOLhyphen"/>seth us not to forbeare any longer to use the utmost of our indeavours to make our Pro<g ref="char:EOLhyphen"/>testation real and effectual in restraining all those Usurpers and Incendiaries from sitting in Parliament in case they should not imme<g ref="char:EOLhyphen"/>diately be removed, that then those retarders and obstructors of the Freedom of all Parlia<g ref="char:EOLhyphen"/>mentary actings, being expelled from the House; that wicked designe of our enemies to make the Army burdensome to the Nati<g ref="char:EOLhyphen"/>on by inforcing them to take free-quarter through want of pay might be crushed, and the Parliament might proceed speedily to settle the Kingdomes Peace, Which is the
+<pb n="3" facs="tcp:114543:3"/> continued desire of us whose names are sub<g ref="char:EOLhyphen"/>scribed,</p>
+            <list>
+               <item>Jo. Renolds</item>
+               <item>Fran. Allen</item>
+               <item>Will. Rainsborow</item>
+               <item>Io. Willoughby</item>
+               <item>Geo. Ioyce</item>
+               <item>Fran. White</item>
+               <item>Edw. Vaughan</item>
+               <item>Nath. Foxgill</item>
+               <item>Io. Dober</item>
+               <item>Ioh. Wells</item>
+               <item>Iohn Wilson</item>
+               <item>Iohn Blackmore</item>
+               <item>Tobias Bridge</item>
+               <item>Wil. Ioans</item>
+               <item>Tho. Sheapard</item>
+               <item>Nat, Vnderwood</item>
+               <item>Io. Wood</item>
+               <item>Steven Combe</item>
+               <item>Nich. Rawlins</item>
+               <item>Rich. Nixon</item>
+               <item>Tho. Robinson</item>
+               <item>Edw. Sexby</item>
+               <item>Timo. Thornbrough</item>
+               <item>Rich. Iohnson</item>
+               <item>Henry Githings</item>
+               <item>Rich. Grant</item>
+               <item>Wil. Pryor</item>
+               <item>Edw. Twigg</item>
+               <item>Edw. Orpin</item>
+               <item>Wil. Knolles</item>
+               <item>Io. Tayler</item>
+               <item>Will. Wilkinson</item>
+               <item>Geo. Stenson</item>
+               <item>Rich. Flower</item>
+               <item>Rich. Thomas</item>
+               <item>Edm. Garne</item>
+               <item>Rich. Creed</item>
+               <item>Tho. Michel.</item>
+               <item>Io. Radman</item>
+               <item>Iacob Summers</item>
+               <item>Bart. Willock.</item>
+            </list>
+            <closer>
+               <dateline>
+                  <date>Septemb. 2, 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="Parliamentary_votes">
+            <head>Severall Votes of the House of Com<g ref="char:EOLhyphen"/>mons concerning some of the Members who acted in the promoting of the late intended Warre.</head>
+            <opener>
+               <dateline>
+                  <date>Die Sabbati Septem. 4. 1647▪</date>
+               </dateline>
+            </opener>
+            <p>UPon Reports from the Committee for the examinations of the mutinies, and the force<g ref="char:EOLhyphen"/>ing the Houses, and the designes of the late inten<g ref="char:EOLhyphen"/>ded warre, the House of Commons ordered.</p>
+            <p>First, That Sir <hi>John Clotworthy,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam</hi>
+               <pb n="4" facs="tcp:114543:4"/>
+               <hi>Lewis,</hi> Col. <hi>Long, &amp;</hi> Sir <hi>William Waller</hi> Members of the House of Commons, who are gone beyond the Seas, bee summoned to appeare before the House within the space of six weeks, to deliver in their answers, to the Impeachment against them.</p>
+            <p>Secondly, That Mr. <hi>Bainton</hi> a Member of the House of Commons be suspended the House during pleasure.</p>
+            <p>Thirdly, That Col. <hi>Anthony Nicholls,</hi> a Member of the House of Commons who being sent up prisoner from the Army, and delivered to the custody of one of the Officers of the House, and after made an escape, be summoned to appeare be<g ref="char:EOLhyphen"/>fore the House, and deliver in his Answer to the Impeachment against him within the space of six weeks.</p>
+            <p>Fourthly, That Mr. <hi>Glynn</hi> Recorder of the City of <hi>London,</hi> a Member of the House of Commons, who is at his House at <hi>VVestminster,</hi> be sum<g ref="char:EOLhyphen"/>moned to appeare before the House, on Munday next <hi>Septem.</hi> 6. 1647. to deliver in his Answer to the Impeachment against him.</p>
+            <p>Fiftly, That Leivtenant Generall <hi>Massey</hi> a Member of the House of Commons who is gone be<g ref="char:EOLhyphen"/>yond the Seas, bee summoned to deliver in his Answer within six weekes time, to the Impeach<g ref="char:EOLhyphen"/>ment against him.</p>
+            <pb n="5" facs="tcp:114543:4"/>
+            <p> Sixtly, That Sir <hi>John Maynard</hi> a Member of the House of Commons who is at his house at <hi>Tooting,</hi> foure miles from <hi>London,</hi> be summon<g ref="char:EOLhyphen"/>ed to appeare before the House on Tuesday▪ next <hi>Sep.</hi> 7. 1647. to deliver in his Answer to the Im<g ref="char:EOLhyphen"/>peachment against him.</p>
+         </div>
+         <div type="summary_of_sessions_in_the_Old_Bailey">
+            <head>At the Sessions in the Old-Bayliffe for the Goale delivery for the Priso<g ref="char:EOLhyphen"/>ners in New-Gate, which ended on Saturday Sep. 4. 1647.</head>
+            <p>SIX persons were imprisoned in New<g ref="char:EOLhyphen"/>gate about the Ryot and murder at <hi>Guild-Hall</hi> by Collonel Generall <hi>Poyntz,</hi> and the Reformadoes.</p>
+            <p n="1">1. One Mr. <hi>Stewart,</hi> was not brought to the Bench to be tryed this Sessions, because he is infected with the plague.</p>
+            <p n="2">2. Some others imprisoned not found guilty</p>
+            <p n="3">3. <hi>John Macquire,</hi> an Irishman (formerly an officer under the Earle of <hi>Essex,</hi> And after Captain-Leiu. to Collonell <hi>Cooke</hi> was accu<g ref="char:EOLhyphen"/>sed to be one of the chiefe of the Riotours, and was indited for murther (some said his sword was seene bloody.) The said <hi>John</hi>
+               <pb n="6" facs="tcp:114543:5"/>
+               <hi>Macquire,</hi> pleaded not guilty, confessed that he was there, but had no sword at all, that when he saw them with drawne swords, hee took a paring shovell out of a womans hand, that he had no other weapon, and used that only for his defence; and pleaded moreover that he had been long in the Parliaments ser<g ref="char:EOLhyphen"/>vice: And argued his case thus, that the wound was with a sword wherewith the par<g ref="char:EOLhyphen"/>ty that dyed was wounded, which could not be his weapon, it being a paring shovell.</p>
+            <p>After the witnesses were all heard, and the said <hi>Macquere</hi> had spoken what he would, the Jury received their charge, and being agreed delivered in their verdit:</p>
+            <p>That the said <hi>John Macquire</hi> is guilty of a Riot.</p>
+            <p>The Recorder advertised the Jury that they must either bring it in muther or cleare him, for he was indited for murther, and not for a Riot.</p>
+            <p>Then the Jury withdrew againe, and de<g ref="char:EOLhyphen"/>livered in their verdit the second time, That the said <hi>John Macquire</hi> is guilty of murther.</p>
+            <p>For which the Bench have adjudged him to be hanged.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114543:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
